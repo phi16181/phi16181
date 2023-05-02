@@ -56,7 +56,7 @@ Blockchain:
 ![Logo for Lockheed Martin](lm_logo.png)  
 **Artificial Intelligence Research Engineer  
 Lockheed Martin  
-Jan 2023 – Present **  
+Jan 2023 – Present**  
 
 *A member of the Aimlabs team, which is part of the Lockheed Martin Artificial Intelligence Center (LAIC), I help drive focus on building a strong and vibrant AI/ML community including tools, knowledge sharing, events, and training. I drive adoption of MLOps and DataOps solutions through interactions within Lockheed Martin’s developer community while providing strategic guidance and high-level support to AI/ML developers*  
 
@@ -65,15 +65,7 @@ Jan 2023 – Present **
 IBM  
 Mar 2021 – Jan 2023**  
 
-*Member of IBM Client Engineering, National, Specialty Focus Areas. Data Science/Engineering role with focus on building data pipelines, machine learning models, and AI components for IBM client MVP applications.*  
-
-
-![Logo for Socratic Arts](sa_logo.png)  
-**Chief Analytics Officer  
-Socratic Arts  
-Mar 2022 – Jan 2023**
-
-*Managed all data and innovation product development initiatives for XTOL (sister company), including constructing and managing data science and data analytics teams, developing data related solutions for external partners and driving continual company growth through innovation.*    
+*Member of IBM Client Engineering, National, Specialty Focus Areas. Data Science/Engineering role with focus on building data pipelines, machine learning models, and AI components for IBM client MVP applications.*      
 
 ![Logo for UT-A](uta_logo.png)  
 **Senior Data Science Mentor  
@@ -114,10 +106,7 @@ Mar 2021 – Oct 2021**
 Hashmap, LLC  
 Sep 2018 – Aug 2019**
 
-*Consulting role overseeing the creation and growth of Data Engineering vertical for this Big Data consulting company for energy clients. 
-1. Created numerous analytics pipeline pipeline migrations for Oil and Gas customers using AWS Kenesis, Snowflake, AWS S3 and AWS Quicksight
-2. Created Machine Learning solutions for drill process optimization using Python, GCP BigQuery, AIgym, GCP AI Studio or NiFi, AWS Kinesis and AWS Sagemaker.
-3. Assisted with prem-to-cloud migrations using Spark and Databricks on Azure.
+*Consulting role overseeing the creation and growth of Data Engineering vertical for this Big Data consulting company for energy clients.Created numerous analytics pipeline pipeline migrations for Oil and Gas customers using AWS Kenesis, Snowflake, AWS S3 and AWS Quicksight. Created Machine Learning solutions for drill process optimization using Python, GCP BigQuery, AIgym, GCP AI Studio or NiFi, AWS Kinesis and AWS Sagemaker. Assisted with prem-to-cloud migrations using Spark and Databricks on Azure.*
 
 
 ![Logo for UGA](uga_logo.png)  
@@ -125,7 +114,9 @@ Sep 2018 – Aug 2019**
 University of Georgia College of Engineering  
 Jul 2016 – May 2019**
 
-*Engineering instructional faculty: Areas of focus Informatics, Computer Systems Engineering, Computational Engineering Methods, Senior Capstone.
+*Engineering instructional faculty: Areas of focus Informatics, Computer Systems Engineering, Computational Engineering Methods, Senior Capstone.*
+
+**Initiatives**
 1. College of Engineering Diversity Task Force Initiative Representative
 2. Founder and Sponsor of Data Dawgs - Interdisciplinary Data Science Student Club 
 3. Founding member of Georgia Informatics Institutes
@@ -150,29 +141,22 @@ Doctor of Philosophy - PhD, Computer Engineering**
 *Research areas: Renewable Energy / Deep Learning / Genetic Algorithms / Systems Design
 Dissertation: Improving Hybrid Global Horizontal Irradiance Prediction Using Deep learning and Sky Images*
 
+![Logo for CSU](csu_logo.png)  
+**Colorado State University
+Doctor of Philosophy - PhD (ABD), Systems Engineering**
 
-Logo for Colorado State University
-Colorado State University
-Doctor of Philosophy - PhD (ABD), Systems Engineering
-
-Research areas: Using machine learning to detect early on-set Alzheimer's Disease. Deep study of EEG data and using it for design and controlling Brain Controlled Interfaces.
-
-
-Logo for The University of Southern Mississippi
-The University of Southern Mississippi
-MS, Engineering Technology
-
-Emphasis Area: Neural Networks and Machine Learning
-
-Thesis: Using Neural Networks to Decrease the Deficiencies in Raytracing Algorithms.
+*Research areas: Using machine learning to detect early on-set Alzheimer's Disease. Deep study of EEG data and using it for design and controlling Brain Controlled Interfaces.*
 
 
-Logo for The University of Southern Mississippi
-The University of Southern Mississippi
-BS, Engineering Technology
+![Logo for USM](usm_logo.png  
+**The University of Southern Mississippi
+MS, Engineering Technology  
+BS, Engineering Technology**  
 
+*Emphasis Area: Neural Networks and Machine Learning
+Thesis: Using Neural Networks to Decrease the Deficiencies in Raytracing Algorithms.*
 
-Licenses & certifications
+##Licenses & certifications
 
 Logo for Defense Counterintelligence and Security Agency (DCSA)
 DoD Mandatory Controlled Unclassified Information (CUI) Training - Defense Counterintelligence and Security Agency (DCSA)
