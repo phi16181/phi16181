@@ -150,69 +150,47 @@ Doctor of Philosophy - PhD (ABD), Systems Engineering**
 
 ![Logo for USM](usm_logo.png)  
 **The University of Southern Mississippi
-MS, Engineering Technology  
+MS, Engineering Technology<br>  
 BS, Engineering Technology**  
 
 *Emphasis Area: Neural Networks and Machine Learning
 Thesis: Using Neural Networks to Decrease the Deficiencies in Raytracing Algorithms.*
 
-##Licenses & certifications
+## Licenses & certifications
 
-Logo for Defense Counterintelligence and Security Agency (DCSA)
-DoD Mandatory Controlled Unclassified Information (CUI) Training - Defense Counterintelligence and Security Agency (DCSA)
+1. DoD Mandatory Controlled Unclassified Information (CUI) Training - Defense Counterintelligence and Security Agency (DCSA)
 Issued Mar 2021
 
-Logo for IBM
-Enterprise Design Thinking Practitioner - IBM
+1. Enterprise Design Thinking Practitioner - IBM
 Issued Jun 2021
 
-Logo for IBM
-IBM Global Sales School for Technology Garage - IBM
+1. IBM Global Sales School for Technology Garage - IBM
 Issued Jul 2021
 
-Logo for IBM
-Introduction to Containers, Kubernetes, and OpenShift - IBM
+1. Introduction to Containers, Kubernetes, and OpenShift - IBM
 Issued Aug 2021
-Credential ID 1fe67ca0ede54e6c9de3f0aaab2cdab1
 
-
-Logo for IBM
-Blockchain Essentials - IBM
+1. Blockchain Essentials - IBM
 Issued Aug 2021
 Credential ID 3557ecdf20144039b62eeadf3d1f7891
 
-
-Logo for IBM
-Maximo Visual Inspection Intermediate - IBM
+1. Maximo Visual Inspection Intermediate - IBM
 Issued Oct 2021
 
-Logo for IBM
-IBM Cloud Pak for Data V3.0.x Data Science - IBM
+1. IBM Cloud Pak for Data V3.0.x Data Science - IBM
 Issued Jun 2021
 
-Logo for IBM
-IBM Machine Learning Specialist - Associate - IBM
+1. IBM Machine Learning Specialist - Associate - IBM
 Issued Feb 2022
 
-Skills
-Hadoop  Computer Vision  Artificial Intelligence (AI)  Machine Learning  Data Engineering  Kubernetes  Cloud Computing  Maximo  Big Data  Pandas (Software)
-
-Honors & awards
-
-Logo for Google
-Google Internet of Things (IoT) Technology Research Award Pilot - Google
-Apr 2016
-
-Over the past year, Google engineers have experimented and developed a set of building blocks for the Internet of Things - an ecosystem of connected devices, services and “things” that promises direct and efficient support of one’s daily life. While there has been significant progress in this field, there remain significant challenges in terms of (1) interoperability and a standardized modular systems architecture, (2) privacy, security and user safety, as well as (3) how users interact with, manage and control an ensemble of devices in this connected environment. 
-
-It is in this context that we are happy to invite university researchers1 to participate in the Internet of Things (IoT) Technology Research Award Pilot. This pilot provides selected researchers in-kind gifts of Google IoT related technologies (listed below), with the goal of fostering collaboration with the academic community on small-scale (~4-8 week) experiments, discovering what they can do with our software and devices.
-
-
-Logo for Amazon Web Services
-Amazon Certified Cloud Practitioner - Amazon Web Services
+1. Amazon Certified Cloud Practitioner - Amazon Web Services
 Nov 2019
 
+## Honors & awards
 
-Logo for University of Georgia School of Computer Science
-Postdoctoral Research in Deep Learning - University of Georgia School of Computer Science
-Aug 2019
+**1. Google Internet of Things (IoT) Technology Research Award Pilot - Google**
+
+*Over the past year, Google engineers have experimented and developed a set of building blocks for the Internet of Things - an ecosystem of connected devices, services and “things” that promises direct and efficient support of one’s daily life. While there has been significant progress in this field, there remain significant challenges in terms of (1) interoperability and a standardized modular systems architecture, (2) privacy, security and user safety, as well as (3) how users interact with, manage and control an ensemble of devices in this connected environment.*
+
+**Postdoctoral Research in Deep Learning - University of Georgia School of Computer Science**
+
