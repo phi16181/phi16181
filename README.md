@@ -194,9 +194,19 @@ Nov 2019
 
 ## Honors & awards
 
-**1. Google Internet of Things (IoT) Technology Research Award Pilot - Google**
+**Google Internet of Things (IoT) Technology Research Award Pilot - Google**
 
 *Over the past year, Google engineers have experimented and developed a set of building blocks for the Internet of Things - an ecosystem of connected devices, services and “things” that promises direct and efficient support of one’s daily life. While there has been significant progress in this field, there remain significant challenges in terms of (1) interoperability and a standardized modular systems architecture, (2) privacy, security and user safety, as well as (3) how users interact with, manage and control an ensemble of devices in this connected environment.*
 
 **Postdoctoral Research in Deep Learning - University of Georgia School of Computer Science**
+
+## Publications
+1.  Improving Global Horizontal Irradiance Prediction Using Deep Learning and Sky Images Improving Global Horizontal Irradiance Prediction Using Deep Learning and Sky Images. University of Georgia · Jul 10, 2018  
+2.  A Machine Learning Based Application for Predicting Global Horizontal IrradianceA Machine Learning Based Application for Predicting Global Horizontal Irradiance. IEEE Southeastcon 2017 · Mar 2, 2017  
+3.  Extreme Gradient Boosting and Behavioral BiometricsExtreme Gradient Boosting and Behavioral Biometrics. AAAI Conference on Artificial Intelligence (AAAI-17) · Nov 1, 2016  
+4.  Effects of user physical fitness on performance in virtual realityEffects of user physical fitness on performance in virtual reality 2016 IEEE Symposium on 3D User Interfaces (3DUI) · Mar 1, 2016  
+5.  Mobile Tracked Displays as Engaging and Effective Learning PlatformsMobile Tracked Displays as Engaging and Effective Learning Platforms
+IEEE Virtual Reality 2016 Workshop on K-12 Embodied Learning through Virtual and Augmented Reality (KELVAR) · Mar 1, 2016IEEE Virtual Reality 2016 Workshop on K-12 Embodied Learning through Virtual and Augmented Reality (KELVAR) · Mar 1, 2016  
+6. Usability and cognitive benefits of a mobile tracked display in virtual laboratories for engineering educationUsability and cognitive benefits of a mobile tracked display in virtual laboratories for engineering education. 2016 IEEE Symposium on 3D User Interfaces (3DUI) · Mar 1, 2016
+
 
