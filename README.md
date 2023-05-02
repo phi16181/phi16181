@@ -130,7 +130,7 @@ Nov 2007 – Apr 2015**
 
 **Neill Development  
 Software Engineer  
-Jun 2002 – Nov 2007
+Jun 2002 – Nov 2007**
 
 ## Education
 
