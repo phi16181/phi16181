@@ -148,7 +148,7 @@ Doctor of Philosophy - PhD (ABD), Systems Engineering**
 *Research areas: Using machine learning to detect early on-set Alzheimer's Disease. Deep study of EEG data and using it for design and controlling Brain Controlled Interfaces.*
 
 
-![Logo for USM](usm_logo.png  
+![Logo for USM](usm_logo.png)  
 **The University of Southern Mississippi
 MS, Engineering Technology  
 BS, Engineering Technology**  
