@@ -7,6 +7,12 @@ Email: <a href="mailto: benjaminbmanning@gmail.com">benjaminbmanning@gmail.com</
 Phone: <a href="tel:+17063442878">706-344-2878</a><br>
 Social Media: <a href="http://www.linkedin.com/in/atldata">LinkedIn Page</a>
 
+## Quick Links
+1. [Experience](https://github.com/phi16181/phi16181/blob/main/README.md#experience)
+1. [Education](https://github.com/phi16181/phi16181/blob/main/README.md#education)
+1. [Licences and Certifications](https://github.com/phi16181/phi16181/blob/main/README.md#licenses--certifications)
+1. [Honors and Awards](https://github.com/phi16181/phi16181/blob/main/README.md#honors--awards)
+
 ### Summary
 Over two decades of leadership and practical experience in engineering and education. Seasoned Data Scientist and Senior Data/MLOps Engineer; AWS Certified. IBM Certified. OpenShift and Kubernetes Certified
 
