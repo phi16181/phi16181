@@ -12,6 +12,7 @@ Social Media: <a href="http://www.linkedin.com/in/atldata">LinkedIn Page</a>
 1. [Education](https://github.com/phi16181/phi16181/blob/main/README.md#education)
 1. [Licences and Certifications](https://github.com/phi16181/phi16181/blob/main/README.md#licenses--certifications)
 1. [Honors and Awards](https://github.com/phi16181/phi16181/blob/main/README.md#honors--awards)
+2. [Publications](https://github.com/phi16181/phi16181/blob/main/README.md#publications)
 
 ### Summary
 Over two decades of leadership and practical experience in engineering and education. Seasoned Data Scientist and Senior Data/MLOps Engineer; AWS Certified. IBM Certified. OpenShift and Kubernetes Certified
