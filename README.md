@@ -148,14 +148,14 @@ Doctor of Philosophy - PhD, Computer Engineering**
 Dissertation: Improving Hybrid Global Horizontal Irradiance Prediction Using Deep learning and Sky Images*
 
 ![Logo for CSU](csu_logo.png)  
-**Colorado State University  
+**Colorado State University<br>  
 Doctor of Philosophy - PhD (ABD), Systems Engineering**
 
 *Research areas: Using machine learning to detect early on-set Alzheimer's Disease. Deep study of EEG data and using it for design and controlling Brain Controlled Interfaces.*
 
 
 ![Logo for USM](usm_logo.png)  
-**The University of Southern Mississippi  
+**The University of Southern Mississippi<br>  
 MS, Engineering Technology<br>  
 BS, Engineering Technology**  
 
