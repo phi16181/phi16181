@@ -59,6 +59,24 @@ Blockchain:
 
 ### Experience
 
+![Logo for GT](gt_logo.jpeg)  
+**Research Faculty
+Georgia Institute of Technology
+May 2024 - Present**
+
+*As a Senior Research Technologist at the Georgia Institute of Technology, I am pioneering advanced multi-agent large language model architectures and generative AI systems designed to revolutionize educational technology within the Online Master of Science in Computer Science (OMSCS) program. My research focuses on developing sophisticated AI-driven learning platforms that leverage collaborative multi-agent frameworks to create personalized, adaptive, and intelligent educational experiences. By integrating cutting-edge generative AI technologies, I am working to transform traditional online learning paradigms, creating dynamic interaction models that can simulate expert tutoring, provide nuanced feedback, and generate contextually rich learning content that adapts to individual student needs and learning styles.*
+
+![Logo for SK](sk_logo.jpeg)  
+**Stable Kernel
+Director of Artificial Intelligence
+Apr 2024 to Jan 2025** 
+
+*As the Director of Artificial Intelligence and Big Data, I am responsible for leading the strategic planning and execution of AI and big data initiatives across the organization. My role oversees the development of innovative AI models and big data analytics solutions to drive business growth and operational efficiency. I collaborate with cross-functional teams to integrate AI technologies and data-driven insights into various business processes. manage a team of data scientists and engineers, ensuring the adoption of best practices in data governance, data science, data engineering and machine learning.*
+
+**Principal Data Engineer
+Sep 2023 to Apr 2024**
+
+*Designed and implemented scalable data architectures leveraging the full suite of Amazon Web Services (AWS) data engineering tools, including Redshift, Glue, Athena, Lake Formation, and S3, to build high-performance and reliable solutions. Spearheaded the integration of data lakes and data warehouses into large-scale systems, optimizing data storage, retrieval, and processing for enterprise needs. Provided technical leadership and guidance in the adoption of innovative data management technologies, ensuring solutions met industry best practices. Collaborated with cross-functional teams to align data engineering strategies with business objectives, driving impactful outcomes and enabling data-driven decision-making.*
 
 ![Logo for Lockheed Martin](lm_logo.png)  
 **Artificial Intelligence Research Engineer  
